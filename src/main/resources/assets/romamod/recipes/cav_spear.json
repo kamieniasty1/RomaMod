@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " R ",
+        "R  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "R": {
+            "item": "romamod:iron_stick"
+        }
+    },
+    "result": {
+        "item": "romamod:cav_spear",
+        "count": 1
+    }
+}

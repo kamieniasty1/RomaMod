@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        "W# ",
+        "SW "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingot"
+        },
+        "W": {
+            "item": "minecraft:stick"
+        },
+        "S": {
+            "item": "romamod:iron_stick"
+        }
+    },
+    "result": {
+        "item": "romamod:latene_wood",
+        "count": 1
+    }
+}

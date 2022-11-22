@@ -1,0 +1,55 @@
+//Tabs
+itemGroup.romamodtab=Roma Tab
+
+//Items
+item.iron_stick.name=Iron Stick
+
+//Armors
+item.roma_diamond_helmet.name=Diamond Helmet
+item.roma_diamond_chestplate.name=Diamond Chestplate
+item.roma_diamond_leggings.name=Diamond Leggings
+item.roma_diamond_boots.name=Diamond Boots
+
+item.roma_gold_helmet.name=Gold Helmet
+item.roma_gold_chestplate.name=Gold Chestplate
+item.roma_gold_leggings.name=Gold Leggings
+item.roma_gold_boots.name=Gold Boots
+
+item.roma_iron_helmet.name=Iron Helmet
+item.roma_iron_chestplate.name=Iron Chestplate
+item.roma_iron_leggings.name=Iron Leggings
+item.roma_iron_boots.name=Iron Boots
+
+item.roma_chainmail_helmet.name=Chainmail Helmet
+item.roma_chainmail_chestplate.name=Chainmail Chestplate
+item.roma_chainmail_leggings.name=Chainmail Leggings
+item.roma_chainmail_boots.name=Chainmail Boots
+
+item.roma_cloth_helmet.name=Cloth Helmet
+item.roma_cloth_chestplate.name=Cloth Chestplate
+item.roma_cloth_leggings.name=Cloth Leggings
+
+//Tools
+item.fine_gladius.name=Fine Gladius
+item.cav_spear.name=Cav Spear
+item.falx.name=Falx
+item.latene_gold.name=Latene Gold
+item.war_axe.name=War Axe
+
+item.aquila.name=Aquila
+item.boar_standard.name=Boar Standard
+item.celt_knife.name=Celt Knife
+item.draco.name=Draco
+item.pugio.name=Pugio
+item.sceptre.name=Sceptre
+item.signum.name=Signum
+item.vexillum.name=Vexillum
+
+item.germ_sword.name=Germ Sword
+item.iron_hasta.name=Iron Hasta
+item.iron_lance.name=Iron Lance
+item.iron_spatha.name=Iron Spatha
+item.latene_wood.name=Latene Wood
+
+item.cane.name=Cane
+item.wood_rudis.name=Wood Rudis

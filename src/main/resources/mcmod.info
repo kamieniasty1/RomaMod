@@ -1,0 +1,16 @@
+[
+{
+  "modid": "romamod",
+  "name": "Roma Mod",
+  "description": "A Minecraft Mod containing armors and weapons inspired by Rome.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kamieniasty"],
+  "credits": "motkha096",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

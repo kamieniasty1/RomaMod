@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern": [
+    "DD#",
+    "DD#",
+    "  #"
+  ],
+  "key": {
+    "#":
+      {
+        "item": "romamod:iron_stick"
+      },
+    "D":
+      {
+        "item": "minecraft:diamond"
+      }
+  },
+  "result": {
+    "item": "romamod:war_axe",
+    "count": 1
+  }
+}
